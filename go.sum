@@ -1,0 +1,4 @@
+github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
+github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
+github.com/wicoady1/gojakarta-middleware v0.0.0-20200216101301-e32fa08ddc63 h1:erhWY9Z/AJW070y6YI1UoFoaNm2u8YIh3LRndzls6sY=
+github.com/wicoady1/gojakarta-middleware v0.0.0-20200216101301-e32fa08ddc63/go.mod h1:jxGP4h6CGGdFgyMOewjA0VLMYAREGhStR7mYw59awQM=

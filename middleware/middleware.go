@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/wicoady1/demo/validator"
+	"github.com/wicoady1/gojakarta-middleware/validator"
 )
 
 type Middleware func(httprouter.Handle) httprouter.Handle

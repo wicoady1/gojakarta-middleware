@@ -4,9 +4,10 @@ import (
 	"log"
 	"net/http"
 
+	"wicoady1/gojakarta-middleware/controller"
+	"wicoady1/gojakarta-middleware/middleware"
+
 	"github.com/julienschmidt/httprouter"
-	"github.com/wicoady1/demo/controller"
-	"github.com/wicoady1/demo/middleware"
 )
 
 func main() {

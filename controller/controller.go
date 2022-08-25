@@ -3,9 +3,10 @@ package controller
 import (
 	"net/http"
 
+	"wicoady1/gojakarta-middleware/service"
+	"wicoady1/gojakarta-middleware/validator"
+
 	"github.com/julienschmidt/httprouter"
-	"github.com/wicoady1/demo/service"
-	"github.com/wicoady1/demo/validator"
 )
 
 func GetCart(w http.ResponseWriter, r *http.Request, ps httprouter.Params) {
